@@ -1,0 +1,44 @@
+[{
+    "websiteToolsData": [
+        {
+            "id": 1, 
+            "name": "DICE ROLLER", 
+            "descr": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+            "img": "dice-7.png", 
+            "url": "/dicepage", 
+            "buttonColor": "#52960c", 
+            "buttonHoverColor": "#556B2F", 
+            "buttonText": "Continue"
+        },
+        {
+            "id": 2, 
+            "name": "PRINTABLE MAPS", 
+            "descr": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+            "img": "dice-8.png", 
+            "url": "/printablemaps", 
+            "buttonColor": "#c74900", 
+            "buttonHoverColor": "#A0522D", 
+            "buttonText": "Continue" 
+        },
+        {
+            "id": 3, 
+            "name": "NAME GENERATOR", 
+            "descr": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+            "img": "dice-9.png", 
+            "url": "/namegenerator", 
+            "buttonColor": "#d1a000", 
+            "buttonHoverColor": "#b08519", 
+            "buttonText": "Continue" 
+        },
+        {
+            "id": 4, 
+            "name": "CHARACTER SHEETS", 
+            "descr": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.", 
+            "img": "dice-10.png", 
+            "url": "https://google.com", 
+            "buttonColor": "#0f74d4", 
+            "buttonHoverColor": "#005db5", 
+            "buttonText": "Continue" 
+        }
+    ]
+}]
